@@ -2,7 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ionut Gobej",
 	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"license": "Ionut",
+	"version": "1.0.0",
 	"dependencies": {
+		
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
